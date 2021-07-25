@@ -2,3 +2,5 @@ raw_tac/
 clean_tac/
 data.zip
 pids.txt
+all_accelerometer_data_pids_13.csv
+phone_types.csv
